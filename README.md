@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi 👋 I'm Amit Waghmare
 
-<!--
-**amitwaghmare-web/amitwaghmare-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer  
+💻 React | Node.js | Express | MongoDB  
+📍 India  
 
-Here are some ideas to get you started:
+### 🔥 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- 🔹 MERN Auth System
+- 🔹 E-Commerce Web App
+- 🔹 Task Manager API
+
+### 📫 Connect with me
+- LinkedIn: your-link
